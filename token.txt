@@ -1,0 +1,2 @@
+Delete this and paste here your discord token
+If you dont know wĥere to find your discord token and set everything up, then please watch the video series for setting up a python discord bot from TechWithTim.
